@@ -1,5 +1,6 @@
 ---
 name: david worfolk
+draft: false
 title: project PRINCIPAL
 quote: 'I have never wanted to live or work in a mediocre manner and have always sought to challenge myself to achieve the next level of quality, beauty and perfection.'
 details: >-
@@ -24,6 +25,8 @@ image: /uploads/staff-9.jpg
 display_number: 8
 _comments:
   image: file should be ~600px wide
+  lang: "'en' for english, 'de' for german (lowercase)"
+  draft: drafts are saved but not published
 lang: en
 ---
 

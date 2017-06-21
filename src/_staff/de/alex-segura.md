@@ -1,5 +1,6 @@
 ---
 name: alex segura
+draft: false
 title: PROJEKTLEITER
 quote: 'Meine Tätigkeit als bei der Leitung von Großprojekten vom Angebot bis zur Abnahme ist äußerst befriedigend. Da ich für das Management der einzelnen Schritte verantwortlich bin, darf ich das Endergebnis unserer gemeinsamen Anstrengungen hautnah miterleben.'
 details: >-
@@ -20,5 +21,7 @@ image: /uploads/staff-11.jpg
 display_number: 10
 _comments:
   image: file should be ~600px wide
+  lang: "'en' for english, 'de' for german (lowercase)"
+  draft: drafts are saved but not published
 lang: de
 ---

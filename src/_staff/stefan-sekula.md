@@ -1,5 +1,6 @@
 ---
 name: stefan sekula
+draft: false
 title: PROJECT PRINCIPAL
 quote: 'Producing some of the highest quality, most complex work on either coast has earned us a reputation for excellence.'
 details: >-
@@ -20,6 +21,8 @@ image: /uploads/staff-8.jpg
 display_number: 7
 _comments:
   image: file should be ~600px wide
+  lang: "'en' for english, 'de' for german (lowercase)"
+  draft: drafts are saved but not published
 lang: en
 ---
 

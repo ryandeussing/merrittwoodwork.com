@@ -1,5 +1,6 @@
 ---
 name: 'jeff sessions, AIA'
+draft: false
 title: PROJEKTLEITER
 quote: 'Ich bin stolz auf meine Chance, in einem Unternehmen zu arbeiten, das höchsten Wert auf Handwerkskunst, Qualität und Kundenzufriedenheit legt.'
 details: >-
@@ -31,6 +32,8 @@ image: /uploads/staff-10.jpg
 display_number: 9
 _comments:
   image: file should be ~600px wide
+  lang: "'en' for english, 'de' for german (lowercase)"
+  draft: drafts are saved but not published
 lang: de
 ---
 

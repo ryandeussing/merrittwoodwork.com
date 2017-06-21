@@ -1,5 +1,6 @@
 ---
 name: Ian Agrell
+draft: false
 title: Director of Classical Decoration
 quote: 'The current resurgence of interest in, and respect for, carved ornamentation is inspiring. I look forward to continuing to develop this extraordinary art.'
 details: >-
@@ -34,5 +35,7 @@ image: /uploads/Ian Agrell.jpg
 display_number: 11
 _comments:
   image: file should be ~600px wide
+  lang: "'en' for english, 'de' for german (lowercase)"
+  draft: drafts are saved but not published
 lang: en
 ---
